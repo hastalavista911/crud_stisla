@@ -1,4 +1,4 @@
-# CRUD master using stisla and simple ajax request
+# CRUD master using (Codeigniter + stisla) and simple ajax request
 
 ## A. Software/System Requirements:
 1. php 7
