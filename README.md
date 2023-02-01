@@ -1,9 +1,13 @@
-# DEVELOPMENT
+# CRUD master using stisla and simple ajax request
 
 ## A. Software/System Requirements:
 1. php 7
 
-## B. Steps:
+## B. Optional Requirements:
+1. A cup of coffee or more
+2. Stuck is normal, don't give up easily and be patient XD
+
+## C. Steps:
 
 1. create database
 2. import database
