@@ -8,4 +8,4 @@
 1. create database
 2. import database
 3. sett config/database.php with your database credential
-4. you can akses url like "http://localhost/crud_stisla"
+4. you can access the project by hit url like "http://localhost/crud_stisla"
